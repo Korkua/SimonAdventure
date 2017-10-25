@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 720fe226f37eef84f99dc0be7f423cab
+timeCreated: 1508942152
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - exitButtonPrefab: {fileID: 151404, guid: 42b44b1616963194cb6fdf618b43b7e5, type: 2}
+  - exitFieldPanelTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
